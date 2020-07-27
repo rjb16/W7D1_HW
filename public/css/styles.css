@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: silver;
+  }
+  
+  ul#list {
+    list-style-type: none;
+    padding-left: 0;
+    margin: auto;
+    margin-top: 0.5;
+  }
+  
+  li {
+    width: fit-content;
+    padding: 0.25em;
+    margin: 0.175em;
+    border-radius: 2px;
+    background-color: #070600;
+  
+    color: whitesmoke;
+    border: 1px solid white;
+    margin: auto;
+  }
+  
+  form {
+    background-color:gold;
+    width: fit-content;
+    padding: 0.5em;
+    margin: auto;
+  }
+  
+  div.form-element {
+    padding: 0.25em;
+    margin: 0.25em;
+  }
+
+  
